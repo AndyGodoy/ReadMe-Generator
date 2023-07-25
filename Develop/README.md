@@ -1,30 +1,33 @@
 
   ## Description
-  Read ME Generator project
+  Practicing Code
   
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contributing)
+  - [Tests](#test)
   - [Questions](#questions)
   
   ## Installation
-  Using code
-  
-  ## Usage
   Very carefully
   
+  ## Usage
+  byou use it to practice coding 
+  
   ## License
-  [![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-  https://www.gnu.org/licenses/gpl-3.0
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  https://opensource.org/licenses/MIT
   ## License
   
-  This project is licensed under the The GPL license License. [![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) Click [here](https://www.gnu.org/licenses/gpl-3.0) for more details.
+  This project is licensed under the The MIT License License. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Click [here](https://opensource.org/licenses/MIT) for more details.
   
   ## Contributing
-  none
+  W3 schools, MDZILLA, and NodeJS
   
+  ## Tests
+  Test 1 Test 2 test 3
   
   ## Questions
   For any additional questions, you can reach out to me via:

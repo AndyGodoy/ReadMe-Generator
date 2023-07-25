@@ -27,8 +27,8 @@ const questions = [
     },
     {
         type: 'input',
-        message:'intructions to be follow?',
-        name: 'instructions',
+        message:'Any Test to follow',
+        name: 'test',
         validate: (value)=>{if(value){return true} else {return 'i need a value top continue'}},
     },
     {

@@ -65,6 +65,7 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contributing)
+  - [Tests](#test)
   - [Questions](#questions)
   
   ## Installation
@@ -81,6 +82,8 @@ function generateMarkdown(data) {
   ## Contributing
   ${data.credits}
   
+  ## Tests
+  ${data.test}
   
   ## Questions
   For any additional questions, you can reach out to me via:
