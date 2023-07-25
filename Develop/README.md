@@ -1,6 +1,6 @@
 
   ## Description
-  ReadMe Generator 
+  Read Me Generator 
   
   ## Table of Contents
   - [Installation](#installation)
@@ -11,26 +11,26 @@
   - [Questions](#questions)
   
   ## Installation
-  You can install my application by cloning it down
+  You can install this application by cloning it down from my gitHub account providied below
   
   ## Usage
-  access the appropiate directory in your terminal and run node index.js
+  You can use this app by accessing your directory in your terminal, and using the node index.js command to run these prompts
   
   ## License
-  [![License: GMU](https://img.shields.io/badge/License-GMU-green.svg)](https://example.com/gmu-license)
-  https://example.com/gmu-license
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  https://opensource.org/licenses/MIT
   ## License
   
-  This project is licensed under the GMU license License. [![License: GMU](https://img.shields.io/badge/License-GMU-green.svg)](https://example.com/gmu-license) Click [here](https://example.com/gmu-license) for more details.
+  This project is licensed under the The MIT License License. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Click [here](https://opensource.org/licenses/MIT) for more details.
   
   ## Contributing
-  W3 schools, MDZILLA, and NodeJs
+  This was possible with the help of MDZILLA, W3 schools, and NodeJS
   
   ## Tests
-  Test 1 Test 2 Test 3 node JS
+  Test 1 Test 2 Test 3 Node Js
   
   ## Questions
   For any additional questions, you can reach out to me via:
-  - GitHub: [AndyGodoy](https://github.com/AndyGodoy)
+  - GitHub: [AndyGodoy	](https://github.com/AndyGodoy	)
   - Email: Andygodoy@ymail.com
 
