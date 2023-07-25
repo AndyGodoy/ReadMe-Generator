@@ -1,6 +1,6 @@
 
   ## Description
-  YESSS
+  Read ME Generator project
   
   ## Table of Contents
   - [Installation](#installation)
@@ -10,24 +10,24 @@
   - [Questions](#questions)
   
   ## Installation
-  UYS
+  Using code
   
   ## Usage
-  df
+  Very carefully
   
   ## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  https://opensource.org/licenses/MIT
+  [![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  https://www.gnu.org/licenses/gpl-3.0
   ## License
   
-  This project is licensed under the The MIT License License. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Click [here](https://opensource.org/licenses/MIT) for more details.
+  This project is licensed under the The GPL license License. [![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) Click [here](https://www.gnu.org/licenses/gpl-3.0) for more details.
   
   ## Contributing
-  aa
+  none
   
   
   ## Questions
   For any additional questions, you can reach out to me via:
-  - GitHub: [asdf](https://github.com/asdf)
-  - Email: asdfasdf
+  - GitHub: [AndyGodoy](https://github.com/AndyGodoy)
+  - Email: Andygodoy@ymail.com
 
