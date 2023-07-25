@@ -1,6 +1,6 @@
 
   ## Description
-  Practicing Code
+  ReadMe Generator 
   
   ## Table of Contents
   - [Installation](#installation)
@@ -11,23 +11,23 @@
   - [Questions](#questions)
   
   ## Installation
-  Very carefully
+  You can install my application by cloning it down
   
   ## Usage
-  byou use it to practice coding 
+  access the appropiate directory in your terminal and run node index.js
   
   ## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  https://opensource.org/licenses/MIT
+  [![License: GMU](https://img.shields.io/badge/License-GMU-green.svg)](https://example.com/gmu-license)
+  https://example.com/gmu-license
   ## License
   
-  This project is licensed under the The MIT License License. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Click [here](https://opensource.org/licenses/MIT) for more details.
+  This project is licensed under the GMU license License. [![License: GMU](https://img.shields.io/badge/License-GMU-green.svg)](https://example.com/gmu-license) Click [here](https://example.com/gmu-license) for more details.
   
   ## Contributing
-  W3 schools, MDZILLA, and NodeJS
+  W3 schools, MDZILLA, and NodeJs
   
   ## Tests
-  Test 1 Test 2 test 3
+  Test 1 Test 2 Test 3 node JS
   
   ## Questions
   For any additional questions, you can reach out to me via:
